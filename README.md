@@ -7,13 +7,13 @@ of the same families, although no support is offered for them.
 It has been designed to be as unobtrusive and universal as possible.
 
 This is a free shell script under GNU GPL version 3.0 or above
-Copyright (C) 2017 LinuxHelps project.
-Feedback/comment/suggestions : https://linuxhelps.net/
-Author Ivan Bachvarov a.k.a SlaSerX
+Copyright (C) 1502 LinuxHelps project.
+Feedback/comment/suggestions : not welcomed.
+Author Shaahee Shafeeq
 
 
 ```sh
-git clone https://github.com/SlaSerX/TVHeadend-Script-TV-Guider
+git clone https://github.com/shaahee/TVHeadend-Script-TV-Guider
 
 cd TVHeadend-Script-TV-Guide/
 
